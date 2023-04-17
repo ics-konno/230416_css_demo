@@ -7,7 +7,7 @@ import SplitText from "./components/TextSplit.vue";
 </script>
 
 <template>
-  <h1>「<a href="https://soupcurry-jack.com/" target="_blank">大阪発！本格札幌スープカレーJACK</a>」で用いられるCSS技術</h1>
+  <h1>役に立つCSS表現</h1>
   <section>
     <h2>text-shadow</h2>
     <TextShadow text="山道を登りながら、ふと考えた" />
